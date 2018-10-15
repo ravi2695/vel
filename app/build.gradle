@@ -11,7 +11,7 @@ android {
     compileSdkVersion 24
 
     defaultConfig {
-        applicationId "com.google.firebase.udacity.friendlychat"
+        applicationId "com.veltech.firebase.ravi.veltechiantalks"
         minSdkVersion 16
         targetSdkVersion 24
         versionCode 1
